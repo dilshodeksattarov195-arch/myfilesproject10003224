@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfync",
+        "uuid": 9178728,
+        "checksum": "rh8hft"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
